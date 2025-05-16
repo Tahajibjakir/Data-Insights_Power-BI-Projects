@@ -1,4 +1,43 @@
+# Transaction Insights-Credit Card Transaction Analysis by Power BI
+
+
+## Projects Output
+![Image](https://github.com/user-attachments/assets/99567765-e7e3-4f72-a192-08540fc00cce)
+
+![Image](https://github.com/user-attachments/assets/b7878246-1e4e-4c18-be1a-94d7946c02ba)
+
+## Features
+
+
+
+## Final Analysis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # StoreMetrics-Ecommerce Analytics Dashboard
+
 This Power BI project showcases an interactive E-commerce Sales Dashboard designed to provide actionable 
 insights into overall business performance. It highlights key metrics such as total sales (438K), profit 
 (37K), quantity sold (5615), and average order value (121K). The dashboard includes visualizations that 
@@ -7,10 +46,10 @@ include profit trends by month, category-wise sales distribution (with Clothing 
 payment method analysis (COD being the most used at 44%). This dashboard empowers business users to 
 identify top-performing regions, products, and customer segments for data-driven decision-making.
 
-# Projects Output
+## Projects Output
 ![Image](https://github.com/user-attachments/assets/a05888ae-54bc-4caf-ad19-29a81c410dad)
 
-# Features
+## Features
 📊 Displays key KPIs: Total Sales, Profit, Quantity Sold, and Average Order Value (AOV)
 
 📍 Visualizes sales distribution by state to identify high-performing regions
@@ -25,7 +64,7 @@ identify top-performing regions, products, and customer segments for data-driven
 
 📈 Interactive filters for quarter-wise and category-wise data exploration
 
-# Final Analysis 
+## Final Analysis 
 
 • High Revenue Products: Clothing contributes the most to quantity sold (63%), while Printers generate the highest profit among sub-categories.
 
