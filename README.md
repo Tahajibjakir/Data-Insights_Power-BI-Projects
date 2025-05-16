@@ -27,14 +27,14 @@ identify top-performing regions, products, and customer segments for data-driven
 
 # Final Analysis 
 
-High Revenue Products: Clothing contributes the most to quantity sold (63%), while Printers generate the highest profit among sub-categories.
+• High Revenue Products: Clothing contributes the most to quantity sold (63%), while Printers generate the highest profit among sub-categories.
 
-Top Performing States: Maharashtra and Madhya Pradesh are the leading regions in terms of total sales amount.
+• Top Performing States: Maharashtra and Madhya Pradesh are the leading regions in terms of total sales amount.
 
-Customer Insights: A few customers (e.g., Harjeet, Madan) contribute significantly to the overall revenue, indicating potential for targeted marketing or loyalty programs.
+• Customer Insights: A few customers (e.g., Harjeet, Madan) contribute significantly to the overall revenue, indicating potential for targeted marketing or loyalty programs.
 
-Payment Preferences: Cash on Delivery (COD) is the most preferred payment method (44%), followed by UPI and Debit Card, reflecting consumer trust and convenience factors.
+• Payment Preferences: Cash on Delivery (COD) is the most preferred payment method (44%), followed by UPI and Debit Card, reflecting consumer trust and convenience factors.
 
-Monthly Trends: Profitability is inconsistent across the year, with dips observed in June and August, while months like March and October show stronger performance.
+• Monthly Trends: Profitability is inconsistent across the year, with dips observed in June and August, while months like March and October show stronger performance.
 
-Actionable Insight: Businesses can optimize marketing and inventory around high-performing products, focus on underperforming months, and expand services in top states to drive further growth.
+• Actionable Insight: Businesses can optimize marketing and inventory around high-performing products, focus on underperforming months, and expand services in top states to drive further growth.
